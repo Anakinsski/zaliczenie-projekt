@@ -1,0 +1,56 @@
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod\bin\Debug\net8.0\Nasz kod.exe
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod\bin\Debug\net8.0\Nasz kod.deps.json
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod\bin\Debug\net8.0\Nasz kod.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod\bin\Debug\net8.0\Nasz kod.dll
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod\bin\Debug\net8.0\Nasz kod.pdb
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod\obj\Debug\net8.0\Nasz kod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod\obj\Debug\net8.0\Nasz kod.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod\obj\Debug\net8.0\Nasz kod.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod\obj\Debug\net8.0\Nasz kod.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod\obj\Debug\net8.0\Nasz kod.dll
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod\obj\Debug\net8.0\refint\Nasz kod.dll
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod\obj\Debug\net8.0\Nasz kod.pdb
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod\obj\Debug\net8.0\Nasz kod.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod\obj\Debug\net8.0\ref\Nasz kod.dll
+C:\Users\puczegrpk\Desktop\Nasz kod\bin\Debug\net8.0\Nasz kod.exe
+C:\Users\puczegrpk\Desktop\Nasz kod\bin\Debug\net8.0\Nasz kod.deps.json
+C:\Users\puczegrpk\Desktop\Nasz kod\bin\Debug\net8.0\Nasz kod.runtimeconfig.json
+C:\Users\puczegrpk\Desktop\Nasz kod\bin\Debug\net8.0\Nasz kod.dll
+C:\Users\puczegrpk\Desktop\Nasz kod\bin\Debug\net8.0\Nasz kod.pdb
+C:\Users\puczegrpk\Desktop\Nasz kod\obj\Debug\net8.0\Nasz kod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puczegrpk\Desktop\Nasz kod\obj\Debug\net8.0\Nasz kod.AssemblyInfoInputs.cache
+C:\Users\puczegrpk\Desktop\Nasz kod\obj\Debug\net8.0\Nasz kod.AssemblyInfo.cs
+C:\Users\puczegrpk\Desktop\Nasz kod\obj\Debug\net8.0\Nasz kod.csproj.CoreCompileInputs.cache
+C:\Users\puczegrpk\Desktop\Nasz kod\obj\Debug\net8.0\Nasz kod.dll
+C:\Users\puczegrpk\Desktop\Nasz kod\obj\Debug\net8.0\refint\Nasz kod.dll
+C:\Users\puczegrpk\Desktop\Nasz kod\obj\Debug\net8.0\Nasz kod.pdb
+C:\Users\puczegrpk\Desktop\Nasz kod\obj\Debug\net8.0\Nasz kod.genruntimeconfig.cache
+C:\Users\puczegrpk\Desktop\Nasz kod\obj\Debug\net8.0\ref\Nasz kod.dll
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod Tomek\Nasz kod\bin\Debug\net8.0\Nasz kod.exe
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod Tomek\Nasz kod\bin\Debug\net8.0\Nasz kod.deps.json
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod Tomek\Nasz kod\bin\Debug\net8.0\Nasz kod.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod Tomek\Nasz kod\bin\Debug\net8.0\Nasz kod.dll
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod Tomek\Nasz kod\bin\Debug\net8.0\Nasz kod.pdb
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod Tomek\Nasz kod\obj\Debug\net8.0\Nasz kod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod Tomek\Nasz kod\obj\Debug\net8.0\Nasz kod.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod Tomek\Nasz kod\obj\Debug\net8.0\Nasz kod.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod Tomek\Nasz kod\obj\Debug\net8.0\Nasz kod.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod Tomek\Nasz kod\obj\Debug\net8.0\Nasz kod.dll
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod Tomek\Nasz kod\obj\Debug\net8.0\refint\Nasz kod.dll
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod Tomek\Nasz kod\obj\Debug\net8.0\Nasz kod.pdb
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod Tomek\Nasz kod\obj\Debug\net8.0\Nasz kod.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Programowanie projekt\Nasz kod Tomek\Nasz kod\obj\Debug\net8.0\ref\Nasz kod.dll
+C:\Users\huber\Desktop\Nasz kod finalny\Nasz kod\bin\Debug\net8.0\Nasz kod.exe
+C:\Users\huber\Desktop\Nasz kod finalny\Nasz kod\bin\Debug\net8.0\Nasz kod.deps.json
+C:\Users\huber\Desktop\Nasz kod finalny\Nasz kod\bin\Debug\net8.0\Nasz kod.runtimeconfig.json
+C:\Users\huber\Desktop\Nasz kod finalny\Nasz kod\bin\Debug\net8.0\Nasz kod.dll
+C:\Users\huber\Desktop\Nasz kod finalny\Nasz kod\bin\Debug\net8.0\Nasz kod.pdb
+C:\Users\huber\Desktop\Nasz kod finalny\Nasz kod\obj\Debug\net8.0\Nasz kod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huber\Desktop\Nasz kod finalny\Nasz kod\obj\Debug\net8.0\Nasz kod.AssemblyInfoInputs.cache
+C:\Users\huber\Desktop\Nasz kod finalny\Nasz kod\obj\Debug\net8.0\Nasz kod.AssemblyInfo.cs
+C:\Users\huber\Desktop\Nasz kod finalny\Nasz kod\obj\Debug\net8.0\Nasz kod.csproj.CoreCompileInputs.cache
+C:\Users\huber\Desktop\Nasz kod finalny\Nasz kod\obj\Debug\net8.0\Nasz kod.dll
+C:\Users\huber\Desktop\Nasz kod finalny\Nasz kod\obj\Debug\net8.0\refint\Nasz kod.dll
+C:\Users\huber\Desktop\Nasz kod finalny\Nasz kod\obj\Debug\net8.0\Nasz kod.pdb
+C:\Users\huber\Desktop\Nasz kod finalny\Nasz kod\obj\Debug\net8.0\Nasz kod.genruntimeconfig.cache
+C:\Users\huber\Desktop\Nasz kod finalny\Nasz kod\obj\Debug\net8.0\ref\Nasz kod.dll
